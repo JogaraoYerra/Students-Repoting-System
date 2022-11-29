@@ -1,0 +1,1 @@
+<h1 style="color:green">New Student Regustered Successfully</h1>
